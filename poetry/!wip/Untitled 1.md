@@ -1,0 +1,1 @@
+natura ludzka ku złemu się skłania

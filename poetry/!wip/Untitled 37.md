@@ -1,0 +1,1 @@
+This is John. John is walking home. He's been at work all day.

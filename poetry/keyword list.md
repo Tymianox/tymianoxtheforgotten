@@ -1,0 +1,102 @@
+---
+tags:
+  - utility
+  - poetry
+---
+- Abstract - when talking about abstract concepts, or the poem doesn’t seem to be very concrete in its message
+- Adventure - when describing an adventure
+- Apathy
+- Apocalypse
+- Awe
+- Betrayal
+- Bittersweet
+- Carefree
+- Cathartic
+- Change
+- Chaos
+- Comfort
+- Cosmic - when mentioning the cosmos or it’s parts
+- Courage
+- Cynical
+- Dark
+- Death
+- Decay
+- Dehumanization
+- Denial
+- Desire
+- Determination
+- Depressive
+- Despair
+- Disappointing reality
+- Dismissive
+- Duality
+- Eldritch
+- Empowerment
+- Ephemerality
+- Epic
+- Existential
+- Explicit - when using expletives
+- Fate
+- Fear - when the speaker expreses fear in some capacity
+- Fiction
+- Freedom
+- Frustration
+- Futility
+- Gods - anything relating to religion
+- Grief
+- Growth
+- Guilt
+- History - when mentioning historical events
+- Holiday - mentions holidays/written for holidays
+- Hopeful
+- Humor
+- Humanity
+- Humility
+- Insanity
+- Introspection - speaker looks into themselves, questioning
+- Isolation
+- Longing
+- Loss - when speaker lost/loses something
+- Lost - when the speaker is lost
+- Love
+- Melancholy
+- Motivating
+- Mystery
+- Nature
+- Nostalgia
+- Oblivion - being forgotten, forsaken
+- Obsession
+- Old English - using archaic words
+- Overthinking - when the poem has signs of the speaker overthinking a topic
+- Pain
+- Parable
+- Paradoxical - when mentions a paradox or the contents contradict themselves
+- Pride
+- Random - when the poem’s topic seems random
+- Rebellion
+- Regret
+- Rejection
+- Resilience
+- Resignation
+- Revenge
+- Sadness
+- Satire
+- Scary - when the reader could feel fear from the contents of the poem
+- Social Commentary
+- Story
+- Suicide
+- Thought-provoking
+- Tragedy
+- Tranquility
+- Transformation
+- Trapped
+- Uplifting
+- Violence
+- Weird
+- Whimsical
+- Wisdom
+- Wordcraft - only for when a neologism is included or a word is used in a completely different context than it should
+- Wrath
+- Youth
+
+#poetry 

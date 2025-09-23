@@ -1,0 +1,6 @@
+---
+tags:
+  - wip
+  - poetry
+  - random
+---
