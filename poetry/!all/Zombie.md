@@ -28,7 +28,8 @@ cssclasses:
 ---
 
 https://wallhaven.cc/w/y872ql
-![[poem-zombie.jpg]]
+![poem-zombie](../!art/poem-zombie.jpg)
+
 
 ---
 

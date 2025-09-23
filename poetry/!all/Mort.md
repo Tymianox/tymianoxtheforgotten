@@ -28,7 +28,8 @@ cssclasses:
 ---
 
 https://wallhaven.cc/w/g8p6v3
-![[poem-mort.png]]
+![poem-mort](../!art/poem-mort.png)
+
 [tenpikaroi](https://www.pixiv.net/en/users/5015345)
 
 ---

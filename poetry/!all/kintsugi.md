@@ -10,6 +10,7 @@ notes:
 title:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「kintsugi」 `EN#`
 

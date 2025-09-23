@@ -38,7 +38,8 @@ cssclasses:
 
 ---
 
-![[poem-xmas.jpg]]
+![poem-xmas](../!art/poem-xmas.jpg)
+
 
 <center class="img_caption"><a href="https://www.pixiv.net/en/artworks/86592122" class="source-link">source: pixiv</a></center>
 

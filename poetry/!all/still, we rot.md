@@ -27,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-still,_we_rot.jpg]]
+![poem-still,_we_rot](../!art/poem-still,_we_rot.jpg)
+
 
 ---
 

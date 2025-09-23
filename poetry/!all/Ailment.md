@@ -46,7 +46,8 @@ notes:
 
 ---
 
-![[poem-ailment.jpg]]
+![poem-ailment](../!art/poem-ailment.jpg)
+
 
 <center class="img_caption"><a href="https://www.artstation.com/artwork/48b082" class="source-link">source: artstation</a></center>
 

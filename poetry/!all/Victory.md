@@ -30,6 +30,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Victory」 `EN#050`
 
@@ -46,7 +47,8 @@ cssclasses:
 
 ---
 
-![[poem-victory.jpg]]
+![poem-victory](../!art/poem-victory.jpg)
+
 
 ---
 

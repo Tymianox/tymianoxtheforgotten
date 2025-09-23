@@ -19,6 +19,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Abuse」 `EN#052`
 
@@ -35,7 +36,8 @@ cssclasses:
 
 ---
 
-![[poem-abuse.jpg]]
+![poem-abuse](../!art/poem-abuse.jpg)
+
 
 ---
 

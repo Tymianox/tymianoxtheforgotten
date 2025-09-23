@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Sometimes」 `EN#235`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-sometimes.jpg]]
+![poem-sometimes](../!art/poem-sometimes.jpg)
+
 
 ---
 

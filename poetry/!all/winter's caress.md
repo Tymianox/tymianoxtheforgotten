@@ -27,7 +27,8 @@ cssclasses:
 ---
 
 https://wallhaven.cc/w/pkkr2j
-![[poem-winter's_caress.jpg]]
+![poem-winter's_caress](../!art/poem-winter's_caress.jpg)
+
 
 ---
 

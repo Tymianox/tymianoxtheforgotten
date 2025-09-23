@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「成長 / growth / wzrost」 `JP#004 / EN#248 / PL#117`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-成長.jpg]]
+![poem-成長](../!art/poem-成長.jpg)
+
 
 葉が揺れる (haba ureru)  
 強風吹けば (kyoofuu fukeba)  

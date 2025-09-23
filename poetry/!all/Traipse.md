@@ -38,7 +38,8 @@ cssclasses:
 
 ---
 
-![[poem-traipse.jpg]]
+![poem-traipse](../!art/poem-traipse.jpg)
+
 
 <center class="img_caption"><a href="https://www.pixiv.net/en/artworks/70331181" class="source-link">source: pixiv</a></center>
 

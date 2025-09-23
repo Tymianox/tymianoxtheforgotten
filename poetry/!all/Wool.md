@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Wool」 `EN#266`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-wool.jpg]]
+![poem-wool](../!art/poem-wool.jpg)
+
 
 Baa, baa, black sheep  
 Have you any wool  

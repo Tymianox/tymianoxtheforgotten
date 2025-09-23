@@ -27,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-bryza.jpg]]
+![poem-bryza](../!art/poem-bryza.jpg)
+
 
 ---
 

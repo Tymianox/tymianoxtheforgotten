@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Mdłe」 `PL#114`
 

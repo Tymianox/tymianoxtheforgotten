@@ -10,6 +10,7 @@ notes:
 title:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「name」 `EN#000`
 
@@ -34,7 +35,8 @@ image
 
 21/05/24
 
-![[poem-cyberspace.jpg]]
+![poem-cyberspace](../!art/poem-cyberspace.jpg)
+
 
 Niektórzy uwięzieni w cyfrowych więzieniach 
 

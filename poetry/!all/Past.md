@@ -26,7 +26,8 @@ cssclasses:
 
 ---
 
-![[poem-past.jpg]]
+![poem-past](../!art/poem-past.jpg)
+
 
 ---
 

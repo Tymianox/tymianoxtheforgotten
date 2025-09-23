@@ -28,7 +28,8 @@ cssclasses:
 ---
 
 https://wallhaven.cc/w/83y62j
-![[poem-sickness.jpg]]
+![poem-sickness](../!art/poem-sickness.jpg)
+
 [ああもんど](https://www.pixiv.net/en/users/31430204)
 
 ---

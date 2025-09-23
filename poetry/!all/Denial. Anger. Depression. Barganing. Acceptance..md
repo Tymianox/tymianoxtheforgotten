@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Denial. Anger. Depression. Barganing. Acceptance.」 `EN#197`
 
@@ -27,7 +28,8 @@ cssclasses:
 
 ---
 
-![[poem-denial_anger_depression_barganing_acceptance.png]]
+![poem-denial_anger_depression_barganing_acceptance](../!art/poem-denial_anger_depression_barganing_acceptance.png)
+
 
 ---
 

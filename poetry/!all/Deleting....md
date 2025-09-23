@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Deleting...」 `EN#294`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-deleting....jpg]]
+![poem-deleting...](../!art/poem-deleting....jpg)
+
 
 ---
 

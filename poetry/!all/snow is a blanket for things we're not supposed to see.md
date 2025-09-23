@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「snow is a blanket for things we're not supposed to see」 `EN#299`
 

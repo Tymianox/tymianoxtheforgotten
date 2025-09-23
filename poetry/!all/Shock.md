@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Shock」 `EN#263`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-shock.jpg]]
+![poem-shock](../!art/poem-shock.jpg)
+
 
 This isn't happening  
 This has to be a dream  

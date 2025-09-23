@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Shackled」 `EN#246`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-shackled.jpg]]
+![poem-shackled](../!art/poem-shackled.jpg)
+
 
 ---
 

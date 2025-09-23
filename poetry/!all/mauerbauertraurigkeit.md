@@ -27,7 +27,8 @@ cssclasses:
 ---
 
 https://wallhaven.cc/w/96krxw
-![[poem-mauerbauertraurigkeit.png]]
+![poem-mauerbauertraurigkeit](../!art/poem-mauerbauertraurigkeit.png)
+
 
 ---
 

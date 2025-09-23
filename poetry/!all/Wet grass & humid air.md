@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # & #12300 ;Wet grass & humid air& #12301 ; `EN#281`
 

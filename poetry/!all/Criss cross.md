@@ -22,11 +22,12 @@ cssclasses:
 > #poetry/type/free-verse 
 > #poetry/rhymed/🔴 
 > #poetry/rating/✨✨✨✨✨ 
-> #despair #pain #isolation #loss #gods #introspection #futility #regret #cynical #fear #trapped #depressive #explicit #frustration #guilt #hopeful #sadness #rejection #resilience #dark #disappointing-reality #lost 
+> #despair #pain #isolation #loss #gods #introspection #futility #regret #cynical #fear #trapped #depressive #profanity #frustration #guilt #hopeful #sadness #rejection #resilience #dark #disappointing-reality #lost 
 
 ---
 
-![[poem-criss_cross.jpg]]
+![poem-criss_cross](../!art/poem-criss_cross.jpg)
+
 
 ---
 

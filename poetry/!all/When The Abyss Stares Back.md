@@ -22,7 +22,7 @@ cssclasses:
 > #poetry/type/free-verse 
 > #poetry/rhymed/🟡 
 > #poetry/rating/⭐⭐⭐ 
-> #existential #introspection #cosmic #despair #futility #paradoxical #dark #depressive #disappointing-reality #eldritch #explicit #isolation #mystery 
+> #existential #introspection #cosmic #despair #futility #paradoxical #dark #depressive #disappointing-reality #eldritch #profanity #isolation #mystery 
 
 ---
 

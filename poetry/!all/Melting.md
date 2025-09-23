@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Melting」 `EN#264`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-melting.jpg]]
+![poem-melting](../!art/poem-melting.jpg)
+
 
 Made of same flesh  
 But different thoughts  

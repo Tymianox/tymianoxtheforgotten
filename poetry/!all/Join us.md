@@ -10,6 +10,7 @@ notes:
 title:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「name」 `EN#000`
 
@@ -35,7 +36,8 @@ image
 03/12/24
 
   
-![[poem-join_us.jpg]]
+![poem-join_us](../!art/poem-join_us.jpg)
+
 Last night at the metro
 
 A thing happened like so

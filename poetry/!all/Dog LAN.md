@@ -26,7 +26,8 @@ cssclasses:
 
 ---
 
-![[poem-dog_lan.jpg]]
+![poem-dog_lan](../!art/poem-dog_lan.jpg)
+
 
 ---
 

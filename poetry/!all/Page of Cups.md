@@ -23,11 +23,12 @@ cssclasses:
 > #poetry/rhymed/🟡 
 > #poetry/rating/ ⭐⭐⭐⭐ 
 > #poetry/series/the-hayworth-tarot
->  #weird #explicit #whimsical #insanity #youth #adventure #love #humility #fiction 
+>  #weird #profanity #whimsical #insanity #youth #adventure #love #humility #fiction 
 
 ---
 
-![[the hayworth tarot - page of cups.jpg]]
+![the hayworth tarot - page of cups](../!art/the hayworth tarot - page of cups.jpg)
+
 
 ---
 

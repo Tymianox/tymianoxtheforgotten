@@ -17,6 +17,7 @@ tags:
 image:
 music:
 notes:
+published: 📷
 ---
 # 「Póki żyję…」 `PL#015`
 

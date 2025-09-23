@@ -35,7 +35,8 @@ image
 # Beyond repair
 
 14/04/25
-![[poem-beyond_repair.jpg]]https://danbooru.donmai.us/posts/5113704
+![poem-beyond_repair](../!art/poem-beyond_repair.jpg)
+https://danbooru.donmai.us/posts/5113704
 
 Do you ever get a little bit tired of life? 
 

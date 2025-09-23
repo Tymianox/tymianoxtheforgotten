@@ -10,6 +10,7 @@ music:
 notes: "inspiration: [[FB_IMG_1758003650218.jpg]]"
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「if a train was coming」 `EN#000`
 
@@ -22,7 +23,7 @@ cssclasses:
 > #poetry/type/free-verse 
 > #poetry/rhymed/🔴 
 > #poetry/rating/✨✨✨✨✨ 
-> keywords
+> #apathy #comfort #courage #dark #death #depressive #fear #futility #grief  #hopeful #loss #love #resignation #suicide #tragedy 
 
 ---
 

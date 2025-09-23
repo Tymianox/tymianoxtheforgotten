@@ -23,11 +23,12 @@ cssclasses:
 > #poetry/type/free-verse 
 > #poetry/rhymed/🔴 
 > #poetry/rating/✨✨✨✨✨ 
-> #gods #betrayal #desire #frustration #regret #resilience #cathartic #introspection #existential #loss #wrath #depressive #despair #determination #humanity #social-commentary #pain #rejection #revenge #dark #explicit #cynical #insanity #isolation 
+> #gods #betrayal #desire #frustration #regret #resilience #cathartic #introspection #existential #loss #wrath #depressive #despair #determination #humanity #social-commentary #pain #rejection #revenge #dark #profanity #cynical #insanity #isolation 
 
 ---
 
-![[poem-my_leftovers.jpg]]
+![poem-my_leftovers](../!art/poem-my_leftovers.jpg)
+
 
 ---
 

@@ -27,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-stomachache.jpg]]
+![poem-stomachache](../!art/poem-stomachache.jpg)
+
 
 <center class="img_caption"><a href="https://www.avogado6.com/diary2022?lightbox=dataItem-ldkg4hxe10" class="source-link">source: avogado6</a></center>
 

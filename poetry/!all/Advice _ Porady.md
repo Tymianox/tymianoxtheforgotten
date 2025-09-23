@@ -27,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-advice.jpg]]
+![poem-advice](../!art/poem-advice.jpg)
+
 
 ---
 

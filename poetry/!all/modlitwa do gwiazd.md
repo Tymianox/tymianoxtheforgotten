@@ -27,7 +27,8 @@ cssclasses:
 ---
 
 https://wallhaven.cc/w/pklrrj
-![[poem-modlitwa_do_gwiazd.jpg]]
+![poem-modlitwa_do_gwiazd](../!art/poem-modlitwa_do_gwiazd.jpg)
+
 
 ---
 

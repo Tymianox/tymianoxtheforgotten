@@ -26,7 +26,8 @@ cssclasses:
 
 ---
 
-![[poem-anhedonia.jpg]]
+![poem-anhedonia](../!art/poem-anhedonia.jpg)
+
 
 All I see is black
 Not a light in sight 

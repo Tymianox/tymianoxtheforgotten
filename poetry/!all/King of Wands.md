@@ -35,7 +35,8 @@ image
 25/03/25
 
   
-![[the hayworth tarot - king of wands.jpg]]
+![the hayworth tarot - king of wands](../!art/the hayworth tarot - king of wands.jpg)
+
 
 #poetry/series/the-hayworth-tarot
 

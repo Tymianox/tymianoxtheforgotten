@@ -26,7 +26,8 @@ cssclasses:
 
 ---
 
-![[poem-find_me.jpg]]
+![poem-find_me](../!art/poem-find_me.jpg)
+
 
 You know where to find me  
 On the edge of the world’s last breath  

@@ -28,7 +28,8 @@ cssclasses:
 
 ---
 
-![[poem-E-V-I-L.png]]
+![poem-E-V-I-L](../!art/poem-E-V-I-L.png)
+
 
 [オ](https://www.pixiv.net/en/users/6704636)
 

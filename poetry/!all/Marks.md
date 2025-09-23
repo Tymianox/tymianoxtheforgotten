@@ -22,7 +22,7 @@ cssclasses:
 > #poetry/type/free-verse 
 > #poetry/rhymed/🔴 
 > #poetry/rating/⭐⭐⭐ 
-> #humanity #existential #introspection #explicit #determination 
+> #humanity #existential #introspection #profanity #determination 
 
 ---
 

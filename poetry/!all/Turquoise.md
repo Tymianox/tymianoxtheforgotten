@@ -27,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-turquoise.png]]
+![poem-turquoise](../!art/poem-turquoise.png)
+
 
 ---
 

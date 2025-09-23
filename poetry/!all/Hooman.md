@@ -22,6 +22,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Hooman」 `EN#114`
 
@@ -38,7 +39,8 @@ cssclasses:
 
 ---
 
-![[poem-hooman.jpg]]
+![poem-hooman](../!art/poem-hooman.jpg)
+
 
 ---
 

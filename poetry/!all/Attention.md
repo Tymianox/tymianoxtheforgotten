@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Attention」 `EN#265`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-attention.jpg]]
+![poem-attention](../!art/poem-attention.jpg)
+
 
 People are deaf  
 To cries for help  

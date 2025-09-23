@@ -22,11 +22,12 @@ cssclasses:
 > #poetry/type/free-verse 
 > #poetry/rhymed/🔴 
 > #poetry/rating/✨✨✨✨✨ 
-> #betrayal #love #frustration #desire #bittersweet #introspection #isolation #duality #regret #existential #despair #wrath #pain #rejection #explicit #cynical #loss 
+> #betrayal #love #frustration #desire #bittersweet #introspection #isolation #duality #regret #existential #despair #wrath #pain #rejection #profanity #cynical #loss 
 
 ---
 
-![[poem-i_hate_everything_about_you.png]]
+![poem-i_hate_everything_about_you](../!art/poem-i_hate_everything_about_you.png)
+
 
 ---
 

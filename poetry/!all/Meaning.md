@@ -42,7 +42,8 @@ notes:
 
 ---
 
-![[poem-meaning.jpg]]
+![poem-meaning](../!art/poem-meaning.jpg)
+
 
 <center class="img_caption"><a href="https://www.pixiv.net/en/artworks/93995273" class="source-link">source: pixiv</a></center>
 

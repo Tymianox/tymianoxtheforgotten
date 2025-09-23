@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Mercy」 `EN#259`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-mercy.jpg]]
+![poem-mercy](../!art/poem-mercy.jpg)
+
 
 I watch You in your sleep  
 I watch You when you weep  

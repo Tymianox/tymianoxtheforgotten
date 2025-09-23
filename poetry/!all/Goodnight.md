@@ -23,11 +23,12 @@ cssclasses:
 > #poetry/type/free-verse 
 > #poetry/rhymed/🔴 
 > #poetry/rating/✨✨✨✨✨ 
-> #despair #depressive #resignation #trapped #sadness #isolation #pain #introspection #cathartic #guilt #death #rejection #suicide #story #tranquility #dark #existential #explicit #disappointing-reality #determination #ephemerality #futility #thought-provoking 
+> #despair #depressive #resignation #trapped #sadness #isolation #pain #introspection #cathartic #guilt #death #rejection #suicide #story #tranquility #dark #existential #profanity #disappointing-reality #determination #ephemerality #futility #thought-provoking 
 
 ---
 
-![[poem-goodnight.jpg]]
+![poem-goodnight](../!art/poem-goodnight.jpg)
+
 
 ---
 

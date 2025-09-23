@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Silent」 `EN#258`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-silent.jpg]]
+![poem-silent](../!art/poem-silent.jpg)
+
 
 Untold stories  
 Untold tears  
@@ -40,4 +42,4 @@ If this doesn't end
 ---
 
 Inspiration:
-![[poem-silent1.jpg]]
+![poem-silent1](../!art/poem-silent1.jpg)

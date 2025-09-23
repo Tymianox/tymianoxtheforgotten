@@ -26,7 +26,8 @@ cssclasses:
 
 ---
 
-![[Giulio-Romano-Zante-Magic-Tours.jpg]]
+![Giulio-Romano-Zante-Magic-Tours](../!art/Giulio-Romano-Zante-Magic-Tours.jpg)
+
 
 Jak Herkules dwanaście prac dostałem
 Lecz jam tylko człowiek

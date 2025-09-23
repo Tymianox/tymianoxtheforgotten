@@ -10,6 +10,7 @@ notes:
 title:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「name」 `EN#000`
 
@@ -34,7 +35,8 @@ image
 
 31/10/24
 
-![[poem-przerwa_na_herbatę.jpg]]
+![poem-przerwa_na_herbatę](../!art/poem-przerwa_na_herbatę.jpg)
+
 
 w blasku lampy i cieniu nocy
 

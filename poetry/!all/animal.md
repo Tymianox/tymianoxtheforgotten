@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # & #12300 ;animal& #12301 ; `EN#283`
 

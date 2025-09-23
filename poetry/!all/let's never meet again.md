@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「let's never meet again」 `EN#252`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-let's_never_meet_again.jpg]]
+![poem-let's_never_meet_again](../!art/poem-let's_never_meet_again.jpg)
+
 
 let’s never meet again—  
 not in the quiet spaces  

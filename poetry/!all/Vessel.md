@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Vessel」 `EN#269`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-vessel.jpg]]
+![poem-vessel](../!art/poem-vessel.jpg)
+
 
 Simply a container  
 For rage and blood  

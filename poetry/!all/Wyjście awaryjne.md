@@ -26,7 +26,8 @@ cssclasses:
 
 ---
 
-![[poem-wyjście_awaryjne.jpg]]
+![poem-wyjście_awaryjne](../!art/poem-wyjście_awaryjne.jpg)
+
 
 <center class="img_caption"><a href="https://www.avogado6.com/diary2021?lightbox=dataItem-kz8enu55" class="source-link">source: avogado6</a></center>
 

@@ -12,7 +12,7 @@ tags:
   - "#poetry/rating/✨✨✨✨✨"
   - dark
   - "#depressive"
-  - explicit
+  - profanity
   - isolation
   - suicide
   - wrath
@@ -43,7 +43,7 @@ notes:
 > #poetry/type/free-verse 
 > #poetry/rhymed/🟡  
 > #poetry/rating/✨✨✨✨✨ 
-> #bittersweet #dark #depressive #despair #explicit #futility #isolation #loss #melancholy #overthinking #regret #suicide #thought-provoking #wrath 
+> #bittersweet #dark #depressive #despair #profanity #futility #isolation #loss #melancholy #overthinking #regret #suicide #thought-provoking #wrath 
 
 ---
 

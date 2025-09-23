@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「生命 / Existence / Istnienie」 `JP#003 / EN#185 / PL#092`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-生命.jpg]]
+![poem-生命](../!art/poem-生命.jpg)
+
 
 <center class="img_caption"><a href="https://www.avogado6.com/diary2023?lightbox=dataItem-ls6ywg6v17" class="source-link">source: avogado6</a></center>
 

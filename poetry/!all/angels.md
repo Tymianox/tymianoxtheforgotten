@@ -27,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-angels.jpg]]
+![poem-angels](../!art/poem-angels.jpg)
+
 
 <center class="img_caption"><a href="https://www.avogado6.com/diary2018?lightbox=dataItem-jqhepl78" class="source-link">source: avogado6</a></center>
 

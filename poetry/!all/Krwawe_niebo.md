@@ -21,6 +21,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Krwawe niebo」 `PL#027`
 

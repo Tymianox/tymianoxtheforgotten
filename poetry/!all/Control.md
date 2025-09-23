@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Control」 `EN#268`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-control.jpg]]
+![poem-control](../!art/poem-control.jpg)
+
 
 
 

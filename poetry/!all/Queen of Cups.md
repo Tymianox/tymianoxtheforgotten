@@ -23,7 +23,7 @@ cssclasses:
 > #poetry/rhymed/🔴 
 > #poetry/rating/ ⭐⭐⭐ 
 > #poetry/series/the-hayworth-tarot
-> #weird #explicit #whimsical #insanity #fiction #love #comfort #hopeful #humility #wisdom #resilience 
+> #weird #profanity #whimsical #insanity #fiction #love #comfort #hopeful #humility #wisdom #resilience 
 
 ---
 
@@ -52,7 +52,8 @@ To do no foul
 25/03/25
 
   
-![[the hayworth tarot - queen of cups.jpg]]
+![the hayworth tarot - queen of cups](../!art/the hayworth tarot - queen of cups.jpg)
+
 
 #poetry/series/the-hayworth-tarot
 

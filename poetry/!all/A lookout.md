@@ -36,7 +36,8 @@ cssclasses:
 
 ---
 
-![[poem-a_lookout.jpg]]
+![poem-a_lookout](../!art/poem-a_lookout.jpg)
+
 
 <center class="img_caption"><a href="https://wallhaven.cc/w/neqwon" class="source-link">source: wallhaven</a></center>
 

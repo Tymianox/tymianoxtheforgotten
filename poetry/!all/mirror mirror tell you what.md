@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # & #12300 ;mirror mirror tell you what& #12301 ; `EN#279`
 
@@ -25,7 +26,8 @@ cssclasses:
 
 ---
 
-![[poem-mirror_mirror_tell_you_what.jpg]]
+![poem-mirror_mirror_tell_you_what](../!art/poem-mirror_mirror_tell_you_what.jpg)
+
 
 mirror mirror on the wall, who is this person i have become.
 mirror mirror on the wall, why does this face hide my soul.

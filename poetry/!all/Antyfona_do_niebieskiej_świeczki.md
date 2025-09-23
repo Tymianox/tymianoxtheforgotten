@@ -24,6 +24,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Antyfona do niebieskiej świeczki」 `PL#044`
 # 「Antiphon to the blue candle」 `EN#135`

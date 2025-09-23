@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Spilled」 `EN#275`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-spilled.jpg]]
+![poem-spilled](../!art/poem-spilled.jpg)
+
 
 In echoes of laughter I stand, eerily still  
 Warmth already faded, pale white skin  

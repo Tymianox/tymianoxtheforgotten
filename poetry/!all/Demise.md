@@ -25,6 +25,7 @@ tags:
 image: "[[poem-demise.png]]"
 music:
 notes:
+published: 📷
 ---
 # 「Demise」 `EN#020`
 
@@ -41,7 +42,8 @@ notes:
 
 ---
 
-![[poem-demise.png]]
+![poem-demise](../!art/poem-demise.png)
+
 
 <center class="img_caption"><a href="https://www.reddit.com/r/wallpaper/comments/je7ej7/tickets_to_my_downfall_made_using_blender" class="source-link">source: reddit</a></center>
 

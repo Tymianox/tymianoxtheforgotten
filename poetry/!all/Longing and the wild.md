@@ -12,6 +12,7 @@ links:
 title:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「name」 `EN#000`
 

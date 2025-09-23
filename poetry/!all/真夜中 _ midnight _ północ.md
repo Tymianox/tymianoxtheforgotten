@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「真夜中 / midnight / północ」 `JP#006 / EN250 / PL#117`
 
@@ -25,7 +26,8 @@ cssclasses:
 
 ---
 
-![[poem-真夜中.jpg]]
+![poem-真夜中](../!art/poem-真夜中.jpg)
+
 
 真夜中に (mayonaka ni)  
 闇は乾坤 (yami ha kenkon)  

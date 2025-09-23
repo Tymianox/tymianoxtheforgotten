@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Butelki」 `PL#118`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-butelki.jpg]]
+![poem-butelki](../!art/poem-butelki.jpg)
+
 
 Kolejna butelka
 Coraz mniej czasu

@@ -14,7 +14,8 @@ cssclasses:
 05/04/25
 
   
-![[the hayworth tarot - 4 of cups.jpg]]
+![the hayworth tarot - 4 of cups](../!art/the hayworth tarot - 4 of cups.jpg)
+
 
 #poetry/series/the-hayworth-tarot
 

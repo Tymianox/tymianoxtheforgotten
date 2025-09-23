@@ -29,7 +29,8 @@ cssclasses:
 
 ---
 
-![[poem-worst_behavior.jpg]]
+![poem-worst_behavior](../!art/poem-worst_behavior.jpg)
+
 
 ---
 

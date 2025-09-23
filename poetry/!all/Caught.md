@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Caught」 `EN#293`
 
@@ -27,7 +28,8 @@ cssclasses:
 
 ---
 
-![[poem-caught.jpg]]
+![poem-caught](../!art/poem-caught.jpg)
+
 
 ---
 

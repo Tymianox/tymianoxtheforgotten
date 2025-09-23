@@ -10,8 +10,9 @@ notes:
 title:
 cssclasses:
   - poetry
+published: 📷
 ---
-# 「name」 `EN#000`
+# 「are you lost?」 `EN#000`
 
 ---
 

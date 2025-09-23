@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「ピンク / pink / róż」 `JP#005 / EN#249 / PL#1161*
 
@@ -25,7 +26,8 @@ cssclasses:
 
 ---
 
-![[poem-ピンク.jpg]]
+![poem-ピンク](../!art/poem-ピンク.jpg)
+
 
 桜咲く (sakura saku)  
 ピンクの渦や (pinku no uzu-ya)  

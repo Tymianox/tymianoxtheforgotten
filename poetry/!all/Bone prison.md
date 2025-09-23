@@ -26,7 +26,8 @@ cssclasses:
 
 ---
 
-![[poem-bone_prison.jpg]]
+![poem-bone_prison](../!art/poem-bone_prison.jpg)
+
 
 ---
 

@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # & #12300 ;don’t bite more than you can chew& #12301 ; `EN#254`
 

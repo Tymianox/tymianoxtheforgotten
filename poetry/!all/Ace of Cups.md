@@ -35,7 +35,8 @@ image
 25/03/25
 
   
-![[the hayworth tarot - ace of cups.jpg]]
+![the hayworth tarot - ace of cups](../!art/the hayworth tarot - ace of cups.jpg)
+
 It was the first, the womb, the vessel
 
 Birthing all that the Cups know 

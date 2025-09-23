@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「inside」 `EN#247`
 
@@ -27,7 +28,8 @@ cssclasses:
 
 ---
 
-![[poem-inside.jpg]]
+![poem-inside](../!art/poem-inside.jpg)
+
 
 ---
 

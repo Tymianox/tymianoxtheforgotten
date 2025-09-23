@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Kuchisake」 `EN#267`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-kuchisake.jpg]]
+![poem-kuchisake](../!art/poem-kuchisake.jpg)
+
 
 Darling, my love  
 Do you like it when I smile?  

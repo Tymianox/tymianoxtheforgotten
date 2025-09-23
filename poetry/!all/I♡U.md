@@ -40,7 +40,8 @@ notes:
 
 ---
 
-![[poem-i♡u.jpg]]
+![poem-i♡u](../!art/poem-i♡u.jpg)
+
 
 <center class="img_caption"><a href="https://x.com/yoneyamai/status/1406604378170032147" class="source-link">source: x</a></center>
 

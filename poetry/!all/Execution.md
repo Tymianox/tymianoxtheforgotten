@@ -27,7 +27,8 @@ cssclasses:
 ---
 
 https://wallhaven.cc/w/8xmd6k
-![[poem-execution.jpg]]
+![poem-execution](../!art/poem-execution.jpg)
+
 
 ---
 

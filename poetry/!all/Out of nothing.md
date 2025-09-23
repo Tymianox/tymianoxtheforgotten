@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Out of nothing」 `EN#236`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-out_of_nothing.jpg]]
+![poem-out_of_nothing](../!art/poem-out_of_nothing.jpg)
+
 
 ---
 

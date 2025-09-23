@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Hurt」 `EN#273`
 
@@ -22,11 +23,12 @@ cssclasses:
 > #poetry/type/free-verse 
 > #poetry/rhymed/🔴 
 > #poetry/rating/ ⭐⭐⭐⭐ 
-> #pain #despair #introspection #isolation #existential #decay #regret #cathartic #depressive #guilt #melancholy #sadness #resignation #dark #explicit #futility #insanity #lost #trapped #overthinking 
+> #pain #despair #introspection #isolation #existential #decay #regret #cathartic #depressive #guilt #melancholy #sadness #resignation #dark #profanity #futility #insanity #lost #trapped #overthinking 
 
 ---
 
-![[poem-hurt.png]]
+![poem-hurt](../!art/poem-hurt.png)
+
 
 I hurt myself today  
 To see if I still feel  

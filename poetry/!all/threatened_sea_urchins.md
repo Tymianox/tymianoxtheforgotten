@@ -38,7 +38,8 @@ cssclasses:
 
 ---
 
-![[poem-threatened_sea_urchins.jpg]]
+![poem-threatened_sea_urchins](../!art/poem-threatened_sea_urchins.jpg)
+
 
 in all waters you can find them
 they don't mean harm

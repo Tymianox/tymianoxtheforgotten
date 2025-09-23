@@ -10,6 +10,7 @@ notes:
 title:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「i must go, love — waits for me the forest clan」 `EN#303`
 

@@ -40,7 +40,8 @@ notes:
 
 ---
 
-![[poem-apocalypse.jpg]]
+![poem-apocalypse](../!art/poem-apocalypse.jpg)
+
 
 <center class="img_caption"><a href="https://www.deviantart.com/sandara/art/Judgement-144999176" class="source-link">Source: deviantart</a></center>
 

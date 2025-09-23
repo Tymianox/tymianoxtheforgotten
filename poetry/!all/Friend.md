@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Friend」 `EN#260`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-friend.jpg]]
+![poem-friend](../!art/poem-friend.jpg)
+
 
 Smile, silly  
 No need to worry  

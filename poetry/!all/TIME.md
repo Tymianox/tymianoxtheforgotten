@@ -44,7 +44,8 @@ notes:
 
 ---
 
-![[poem-time.jpg]]
+![poem-time](../!art/poem-time.jpg)
+
 
 <center class="img_caption"><a href="https://www.pixiv.net/en/artworks/45250269" class="source-link">source: pixiv</a></center>
 

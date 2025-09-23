@@ -35,7 +35,8 @@ image
 25/03/25
 
   
-![[the hayworth tarot - king of pentacles.jpg]]
+![the hayworth tarot - king of pentacles](../!art/the hayworth tarot - king of pentacles.jpg)
+
 
 #poetry/series/the-hayworth-tarot
 

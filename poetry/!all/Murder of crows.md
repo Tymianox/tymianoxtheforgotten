@@ -22,7 +22,7 @@ cssclasses:
 > #poetry/type/free-verse 
 > #poetry/rhymed/🔴 
 > #poetry/rating/⭐⭐⭐ 
-> #death #dark #existential #depressive #loss #guilt #explicit #melancholy #mystery 
+> #death #dark #existential #depressive #loss #guilt #profanity #melancholy #mystery 
 
 ---
 

@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Death dance」 `EN#265`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-death_dance.jpg]]
+![poem-death_dance](../!art/poem-death_dance.jpg)
+
 
 Dancing  
 With the angel of death  

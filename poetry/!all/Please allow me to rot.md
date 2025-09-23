@@ -35,7 +35,8 @@ image
 04/03/25
 
   
-![[poem-please_let_me_rot.jpg]]
+![poem-please_let_me_rot](../!art/poem-please_let_me_rot.jpg)
+
 https://www.artstation.com/artwork/vJl53d
 
 Death - my love

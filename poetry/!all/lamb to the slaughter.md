@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # & #12300 ;lamb to the slaughter& #12301 ; `EN#256`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-lamb_to_the_slaughter.jpg]]
+![poem-lamb_to_the_slaughter](../!art/poem-lamb_to_the_slaughter.jpg)
+
 
 they dressed me in white
 soft as wool, pure as sin

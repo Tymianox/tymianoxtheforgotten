@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「charging」 `EN#295`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-charging.jpg]]
+![poem-charging](../!art/poem-charging.jpg)
+
 
 ---
 

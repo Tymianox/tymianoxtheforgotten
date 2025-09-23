@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「the dead never sleep, they just wait for you to forget them」 `EN#301`
 
@@ -27,7 +28,8 @@ cssclasses:
 ---
 
 https://wallhaven.cc/w/l3ovyy
-![[poem-the_dead_never_speak.png]]
+![poem-the_dead_never_speak](../!art/poem-the_dead_never_speak.png)
+
 From: Berserk
 
 ---

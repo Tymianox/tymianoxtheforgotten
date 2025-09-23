@@ -35,7 +35,6 @@ tags:
 - Ephemerality
 - Epic
 - Existential
-- Explicit - when using expletives
 - Fate
 - Fear - when the speaker expreses fear in some capacity
 - Fiction
@@ -58,7 +57,7 @@ tags:
 - Longing
 - Loss - when speaker lost/loses something
 - Lost - when the speaker is lost
-- Love
+- Love - any kind
 - Melancholy
 - Motivating
 - Mystery
@@ -72,6 +71,7 @@ tags:
 - Parable
 - Paradoxical - when mentions a paradox or the contents contradict themselves
 - Pride
+- Profanity 
 - Random - when the poem’s topic seems random
 - Rebellion
 - Regret

@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Cierpliwość」 `PL#112`
 
@@ -22,11 +23,12 @@ cssclasses:
 > #poetry/type/free-verse #poetry/type/octet #poetry/type/short 
 > #poetry/rhymed/🟡 
 > #poetry/rating/✨✨✨✨✨ 
-> #despair #introspection #dark #resignation #cathartic #pain #isolation #bittersweet #existential #melancholy #comfort #depressive #hopeful #tranquility #death #suicide #explicit #ephemerality #loss 
+> #despair #introspection #dark #resignation #cathartic #pain #isolation #bittersweet #existential #melancholy #comfort #depressive #hopeful #tranquility #death #suicide #profanity #ephemerality #loss 
 
 ---
 
-![[poem-cierpliwość.jpg]]
+![poem-cierpliwość](../!art/poem-cierpliwość.jpg)
+
 
 Krew wycieka  
 Po ręce ścieka  

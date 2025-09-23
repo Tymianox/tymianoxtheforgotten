@@ -43,7 +43,8 @@ cssclasses:
 
 ---
 
-![[poem-reinawr.png]]
+![poem-reinawr](../!art/poem-reinawr.png)
+
 
 <center class="img_caption"><a href="https://www.rahnart.com/work/ajani-steadfast" class="source-link">source: rahnart</a></center>
 

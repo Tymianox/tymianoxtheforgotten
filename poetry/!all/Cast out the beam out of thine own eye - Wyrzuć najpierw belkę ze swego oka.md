@@ -10,6 +10,7 @@ notes:
 title:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「name」 `EN#000`
 
@@ -34,7 +35,8 @@ image
 
 07/03/25
 
-![[poem-cast_out_the_beam_out_of_thine_own_eye.png]]
+![poem-cast_out_the_beam_out_of_thine_own_eye](../!art/poem-cast_out_the_beam_out_of_thine_own_eye.png)
+
 
 It does not bleed. Nor does it bloom.
 

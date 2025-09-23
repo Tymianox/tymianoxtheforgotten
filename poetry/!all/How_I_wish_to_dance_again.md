@@ -10,6 +10,7 @@ notes:
 title:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「name」 `EN#000`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-how_I_wish_to_dance_again.jpg]]
+![poem-how_I_wish_to_dance_again](../!art/poem-how_I_wish_to_dance_again.jpg)
+
 
 <center class="img_caption"><a href="https://www.pixiv.net/en/artworks/100468452" class="source-link">source: pixiv</a></center>
 

@@ -33,7 +33,8 @@ cssclasses:
 
 ---
 
-![[poem-nocna_furia.jpg]]
+![poem-nocna_furia](../!art/poem-nocna_furia.jpg)
+
 
 <center class="img_caption"><a href="https://alaeries.tumblr.com/post/174638428841/let-the-wind-carry-us-im-real-excited-for" class="source-link">source: tumblr</a></center>
 

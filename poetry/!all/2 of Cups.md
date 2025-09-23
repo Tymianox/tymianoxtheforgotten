@@ -28,7 +28,8 @@ cssclasses:
 
 ---
 
-![[the hayworth tarot - 2 of cups.jpg]]
+![the hayworth tarot - 2 of cups](../!art/the hayworth tarot - 2 of cups.jpg)
+
 
 <center class="img_caption"><a href="https://" class="source-link">Source: </a></center>
 

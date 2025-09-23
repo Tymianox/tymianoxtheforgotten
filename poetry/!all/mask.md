@@ -45,7 +45,8 @@ cssclasses:
 
 ---
 
-![[poem-mask.jpg]]
+![poem-mask](../!art/poem-mask.jpg)
+
 
 <center class="img_caption"><a href="https://www.avogado6.com/diary2022?lightbox=dataItem-ldkg4hxf1" class="source-link">source: avogado6</a></center>
 

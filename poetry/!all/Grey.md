@@ -27,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-grey.jpg]]
+![poem-grey](../!art/poem-grey.jpg)
+
 
 ---
 

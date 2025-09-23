@@ -36,7 +36,8 @@ notes:
 
 ---
 
-![[poem-death's_sonnet.jpg]]
+![poem-death's_sonnet](../!art/poem-death's_sonnet.jpg)
+
 
 <center class="img_caption"><a href="https://stock.adobe.com/pl/images/dark-faces-of-corpses-the-screaming-black-and-white-background-illustration-in-horror-fantasy-genre-coal-and-noise-effect-gloomy-characters-from-nightmares/318414087" class="source-link">source: adobe stock</a></center>
 

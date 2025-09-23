@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Zawiść」 `PL#113`
 
@@ -22,11 +23,12 @@ cssclasses:
 > #poetry/type/free-verse #poetry/type/octet #poetry/type/short 
 > #poetry/rhymed/🔴 
 > #poetry/rating/⭐⭐⭐⭐ 
-> #despair #dark #pain #resignation #isolation #bittersweet #existential #melancholy #introspection #suicide #death #depressive #frustration #longing #desire #resignation #explicit #disappointing-reality #futility #trapped 
+> #despair #dark #pain #resignation #isolation #bittersweet #existential #melancholy #introspection #suicide #death #depressive #frustration #longing #desire #resignation #profanity #disappointing-reality #futility #trapped 
 
 ---
 
-![[poem-zawiść.jpg]]
+![poem-zawiść](../!art/poem-zawiść.jpg)
+
 
 Zawistnie  
 Patrzę na statystyki samobójstw  

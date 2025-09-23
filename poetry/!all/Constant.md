@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Constant」 `EN#274`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-constant.png]]
+![poem-constant](../!art/poem-constant.png)
+
 
 Constant mumbling  
 Inside my mind  

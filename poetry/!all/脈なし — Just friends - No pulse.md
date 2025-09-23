@@ -10,8 +10,10 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
-# 「脈なし」— “Just friends” / “No pulse” `EN#266`
+# 「脈なし」 `EN#266`
+## “Just friends” / “No pulse”
 
 ---
 
@@ -26,7 +28,8 @@ cssclasses:
 
 ---
 
-![[poem-脈なし.jpg]]
+![poem-脈なし](../!art/poem-脈なし.jpg)
+
 
 ---
 

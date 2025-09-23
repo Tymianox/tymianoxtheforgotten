@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Scripture」 `EN#240`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-scripture.jpg]]
+![poem-scripture](../!art/poem-scripture.jpg)
+
 
 ---
 

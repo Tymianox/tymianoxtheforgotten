@@ -10,6 +10,7 @@ notes:
 title:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「name」 `EN#000`
 
@@ -35,7 +36,8 @@ image
 26/04/25
 #language/multilingual 
 
-![[poem-feed_me_to_the_sun.jpg]]
+![poem-feed_me_to_the_sun](../!art/poem-feed_me_to_the_sun.jpg)
+
 
 rip my heart out 
 

@@ -22,7 +22,7 @@ weird = radom?
 #lost 
 #oblivion 
 #pain 
-#explicit
+#profanity
 #longing 
 #paradoxical 
 #fear 

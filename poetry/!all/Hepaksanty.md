@@ -39,7 +39,8 @@ cssclasses:
 
 ---
 
-![[poem-hepaksanty.png]]
+![poem-hepaksanty](../!art/poem-hepaksanty.png)
+
 
 <center class="img_caption"><a href="https://kitsu.app/anime/non-non-biyori" class="source-link">source: Non Non Biyori</a></center>
 

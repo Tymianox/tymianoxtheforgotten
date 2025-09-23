@@ -23,11 +23,12 @@ cssclasses:
 > #poetry/rhymed/🟡 
 > #poetry/rating/ ✨✨✨✨✨ 
 > #poetry/series/the-hayworth-tarot
-> #adventure #dark #fate #determination #story #pride #hopeful #weird #explicit #whimsical #insanity #fiction 
+> #adventure #dark #fate #determination #story #pride #hopeful #weird #profanity #whimsical #insanity #fiction 
 
 ---
 
-![[the hayworth tarot - knight of cups.jpg]]
+![the hayworth tarot - knight of cups](../!art/the hayworth tarot - knight of cups.jpg)
+
 
 ---
 

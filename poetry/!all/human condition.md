@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「human condition」 `EN#251`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-human_condition.png]]
+![poem-human_condition](../!art/poem-human_condition.png)
+
 
 it is the human condition to lie, maim, and kill  
 to claw and ravage with ruthless will  

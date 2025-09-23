@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「hourglass」 `EN#257`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-hourglass.jpg]]
+![poem-hourglass](../!art/poem-hourglass.jpg)
+
 
 grain
   of sand

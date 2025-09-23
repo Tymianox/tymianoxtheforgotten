@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「what if the flickering lights are luring instead of guiding」 `EN#302`
 

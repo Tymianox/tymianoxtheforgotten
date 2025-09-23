@@ -36,7 +36,8 @@ notes:
 
 ---
 
-![[poem-once_upon_a_time.jpg]]
+![poem-once_upon_a_time](../!art/poem-once_upon_a_time.jpg)
+
 
 <center class="img_caption"><a href="https://www.deviantart.com/sakimichan/art/The-summon-385996679" class="source-link">source: deviantart</a></center>
 

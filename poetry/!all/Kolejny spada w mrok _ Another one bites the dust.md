@@ -27,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-kolejny_spada_w_mrok.jpg]]
+![poem-kolejny_spada_w_mrok](../!art/poem-kolejny_spada_w_mrok.jpg)
+
 
 ---
 

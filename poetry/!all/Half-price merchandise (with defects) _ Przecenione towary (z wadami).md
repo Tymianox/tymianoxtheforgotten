@@ -26,7 +26,8 @@ cssclasses:
 
 ---
 
-![[poem-half-price_merchandise_(with_defects).jpg]]
+![poem-half-price_merchandise_(with_defects)](../!art/poem-half-price_merchandise_(with_defects).jpg)
+
 
 <center class="img_caption"><a href="https://www.avogado6.com/diary2022?lightbox=dataItem-ldkg4hxf10" class="source-link">source: avogado6</a></center>
 

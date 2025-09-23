@@ -62,7 +62,8 @@ To play in the king's plan
 
   
   
-![[the hayworth tarot - king of cups.jpg]]
+![the hayworth tarot - king of cups](../!art/the hayworth tarot - king of cups.jpg)
+
 
 #poetry/series/the-hayworth-tarot
 

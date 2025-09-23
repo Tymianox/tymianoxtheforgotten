@@ -24,6 +24,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「despair」 `EN#144`
 

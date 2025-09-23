@@ -10,6 +10,7 @@ notes:
 title:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「name」 `EN#000`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-exist.jpg]]
+![poem-exist](../!art/poem-exist.jpg)
+
 
 <center class="img_caption"><a href="https://noirlab.edu/public/images/noao-02677/" class="source-link">source: noirlab</a></center>
 

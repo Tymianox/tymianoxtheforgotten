@@ -27,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-hej,_przyjaciele.jpg]]
+![poem-hej,_przyjaciele](../!art/poem-hej,_przyjaciele.jpg)
+
 
 ---
 

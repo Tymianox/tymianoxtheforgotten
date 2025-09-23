@@ -28,7 +28,8 @@ cssclasses:
 
 ---
 
-![[poem-wish.jpg]]
+![poem-wish](../!art/poem-wish.jpg)
+
 
 ---
 

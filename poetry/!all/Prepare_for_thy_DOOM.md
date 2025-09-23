@@ -46,7 +46,8 @@ cssclasses:
 
 ---
 
-![[poem-prepare_for_thy_doom.jpg]]
+![poem-prepare_for_thy_doom](../!art/poem-prepare_for_thy_doom.jpg)
+
 
 <center class="img_caption"><a href="https://www.tumblr.com/doctorsiren/658422140475949056/doomguy-and-daisy" class="source-link">source: tumblr</a></center>
 

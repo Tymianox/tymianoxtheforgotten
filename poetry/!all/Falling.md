@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Falling」 `EN#244`
 
@@ -23,11 +24,12 @@ cssclasses:
 > #poetry/type/free-verse 
 > #poetry/rhymed/🔴 
 > #poetry/rating/✨✨✨✨✨ 
-> #existential #death #suicide #comfort #tranquility #despair #melancholy #trapped #resignation #bittersweet #introspection #awe #cathartic #depressive #longing #dark #explicit #courage #freedom #ephemerality #isolation #thought-provoking 
+> #existential #death #suicide #comfort #tranquility #despair #melancholy #trapped #resignation #bittersweet #introspection #awe #cathartic #depressive #longing #dark #profanity #courage #freedom #ephemerality #isolation #thought-provoking 
 
 ---
 
-![[poem-falling.jpg]]
+![poem-falling](../!art/poem-falling.jpg)
+
 
 ---
 

@@ -10,6 +10,7 @@ music:
 notes:
 cssclasses:
   - poetry
+published: 📷
 ---
 # 「Crowd of strangers」 `EN#261`
 
@@ -26,7 +27,8 @@ cssclasses:
 
 ---
 
-![[poem-crowd_of_strangers.jpg]]
+![poem-crowd_of_strangers](../!art/poem-crowd_of_strangers.jpg)
+
 
 I scan the crowd hunting for the face I know  
 Not finding it I remember —
