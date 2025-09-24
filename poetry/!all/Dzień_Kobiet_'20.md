@@ -25,7 +25,7 @@ notes:
 
 ---
 
-> [[!daily/2020-03-08|08/03/20]]
+> 08/03/20
 > 
 > #poetry 
 > #language/polish 

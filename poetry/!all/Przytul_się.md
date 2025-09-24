@@ -24,7 +24,7 @@ cssclasses:
 
 ---
 
-> [[2022-08-02|02/08/22]]
+> 02/08/22
 > 
 > #poetry 
 > #language/polish 

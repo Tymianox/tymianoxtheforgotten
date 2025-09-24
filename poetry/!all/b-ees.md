@@ -24,7 +24,7 @@ notes:
 
 ---
 
-> [[2022-04-11|11/04/22]]
+> 11/04/22
 > 
 > #poetry 
 > #language/english 
@@ -40,4 +40,4 @@ of bearing bickets
 
 ---
 
-[^1]: [[Made up words|bicket]] - bicker + racket
+[^1]: bicket - bicker + racket

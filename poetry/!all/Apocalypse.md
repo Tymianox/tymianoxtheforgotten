@@ -21,7 +21,7 @@ tags:
   - fear
   - chaos
   - "#tragedy"
-image: "[[poem-apocalypse.jpg]]"
+image: "../!art/poem-apocalypse.jpg"
 music: https://soundcloud.com/tokzick/tokzick-the-4-horsemen
 notes:
 ---
@@ -29,7 +29,7 @@ notes:
 
 ---
 
-> [[!daily/2021-12-31|31/12/21]]
+> 31/12/21
 > 
 > #poetry 
 > #language/english 

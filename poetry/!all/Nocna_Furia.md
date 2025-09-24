@@ -12,7 +12,7 @@ tags:
   - poetry/rating/⭐⭐
   - story
   - fiction
-image: "[[poem-nocna_furia.jpg]]"
+image: "../!art/poem-nocna_furia.jpg"
 music:
 notes:
 cssclasses:
@@ -22,7 +22,7 @@ cssclasses:
 
 ---
 
-> [[2022-06-15|15/06/22]]
+> 15/06/22
 > 
 > #poetry 
 > #language/polish 

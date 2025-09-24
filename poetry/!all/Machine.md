@@ -18,14 +18,14 @@ tags:
   - overthinking
 image:
 music:
-  - "[[Imagine Dragons - Machine.mp3]]"
+  - "../!art/Imagine Dragons - Machine.mp3"
 notes:
 ---
 # 「Machine」 `EN#012`
 
 ---
 
-> [[2022-03-11|11/03/22]]
+> 11/03/22
 > 
 > #poetry 
 > #language/english 
@@ -53,4 +53,4 @@ Not overthinking the past
 
 ---
 
-![[Imagine Dragons - Machine.mp3]]
+!../!art/Imagine Dragons - Machine.mp3

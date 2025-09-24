@@ -18,7 +18,7 @@ tags:
   - overthinking
   - bittersweet
   - melancholy
-image: "[[poem-hepaksanty.png]]"
+image: "../!art/poem-hepaksanty.png"
 music:
 notes:
 cssclasses:
@@ -28,7 +28,7 @@ cssclasses:
 
 ---
 
-> [[2023-02-14|14/02/23]]
+> 14/02/23
 > 
 > #poetry 
 > #language/polish 

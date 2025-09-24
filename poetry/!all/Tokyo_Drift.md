@@ -16,14 +16,14 @@ tags:
   - weird
 image:
 music:
-  - "[[CASTRO - Chase.mp3]]"
+  - "../!art/CASTRO - Chase.mp3"
 notes:
 ---
 # 「Tokyo Drift」 `EN#045`
 
 ---
 
-> [[2022-05-17|17/05/22]]
+> 17/05/22
 > 
 > #poetry 
 > #language/english 
@@ -105,4 +105,4 @@ notes:
 
 ---
 
-![[CASTRO - Chase.mp3]]
+!../!art/CASTRO - Chase.mp3

@@ -24,8 +24,8 @@ tags:
   - mystery
   - abstract
   - overthinking
-image: "[[poem-time.jpg]]"
-music: "[[EvoZ - Timekeeper.mp3]]"
+image: "../!art/poem-time.jpg"
+music: "../!art/EvoZ - Timekeeper.mp3"
 notes:
 ---
 # 「꧁🆃🅸🅼🅴꧂」 `EN#003`
@@ -33,7 +33,7 @@ notes:
 
 ---
 
-> [[2022-01-02|02/01/22]]
+> 02/01/22
 > 
 > #poetry 
 > #language/english 
@@ -75,4 +75,4 @@ Have proof it is otherwise.
 
 ---
 
-![[EvoZ - Timekeeper.mp3]]
+!../!art/EvoZ - Timekeeper.mp3

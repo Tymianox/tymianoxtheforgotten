@@ -27,7 +27,7 @@ notes: "inspired by: https://youtu.be/SIFR5ns7Pws?si=WhHRjhI9MWLD9eDG&t=88"
 
 ---
 
-> [[2022-05-26|26/05/22]]
+> 26/05/22
 > 
 > #poetry 
 > #language/english 

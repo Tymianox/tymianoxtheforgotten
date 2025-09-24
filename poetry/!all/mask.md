@@ -23,7 +23,7 @@ tags:
   - introspection
   - wisdom
   - sadness
-image: "[[poem-mask.jpg]]"
+image: "../!art/poem-mask.jpg"
 music:
 notes:
 cssclasses:
@@ -34,7 +34,7 @@ cssclasses:
 
 ---
 
-> [[2023-03-01|01/03/23]]
+> 01/03/23
 > 
 > #poetry 
 > #language/english #language/polish 

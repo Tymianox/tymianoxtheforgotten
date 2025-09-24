@@ -19,7 +19,7 @@ image:
 music:
 notes:
 links:
-  - "[[trivia/Aphantasia|Aphantasia]]"
+  - "Aphantasia"
 cssclasses:
   - poetry
 ---
@@ -27,7 +27,7 @@ cssclasses:
 
 ---
 
-> [[2022-10-30|30/10/22]]
+> 30/10/22
 > 
 > #poetry 
 > #language/english 

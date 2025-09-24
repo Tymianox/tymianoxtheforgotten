@@ -27,7 +27,7 @@ notes:
 
 ---
 
-> [[2022-03-03|03/03/22]]
+> 03/03/22
 > 
 > #poetry
 > #language/polish #language/multilingual

@@ -17,7 +17,7 @@ tags:
   - depressive
   - existential
   - whimsical
-image: "[[poem-hooman.jpg]]"
+image: "../!art/poem-hooman.jpg"
 music:
 notes:
 cssclasses:
@@ -28,7 +28,7 @@ published: 📷
 
 ---
 
-> [[2022-11-04|04/11/22]]
+> 04/11/22
 > 
 > #poetry 
 > #language/english 

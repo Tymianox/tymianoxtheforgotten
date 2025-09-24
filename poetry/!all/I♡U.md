@@ -20,7 +20,7 @@ tags:
   - comfort
   - longing
   - uplifting
-image: "[[poem-i♡u.jpg]]"
+image: "../!art/poem-i♡u.jpg"
 music:
   - https://www.youtube.com/watch?v=0FDeOZD0HSU
 notes:
@@ -29,7 +29,7 @@ notes:
 
 ---
 
-> [[2024-05-28|28/01/22]]
+> 28/01/22
 > 
 > #poetry 
 > #language/english 

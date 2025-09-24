@@ -15,7 +15,7 @@ cssclasses:
 
 ---
 
-> [[2024-04-26|26/04/24]]
+> 26/04/24
 > 
 > #poetry 
 > #language/polish #language/english 

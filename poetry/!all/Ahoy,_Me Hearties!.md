@@ -20,14 +20,14 @@ tags:
   - whimsical
 image:
 music:
-  - "[[The Longest Johns - Wellerman.mp3]]"
+  - "../!art/The Longest Johns - Wellerman.mp3"
 notes:
 ---
 # 「Ahoy, Me Hearties!」 `EN#016`
 
 ---
 
-> [[2022-03-18|18/03/22]]
+> 18/03/22
 > 
 > #poetry 
 > #songs
@@ -82,4 +82,4 @@ To have been saved by another crew
 
 ---
 
-![[The Longest Johns - Wellerman.mp3]]
+!../!art/The Longest Johns - Wellerman.mp3

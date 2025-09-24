@@ -20,11 +20,11 @@ tags:
   - dark
   - death
   - wrath
-image: "[[poem-reinawr.png]]"
+image: "../!art/poem-reinawr.png"
 music:
 notes:
 links:
-  - "[[Character sheet]]"
+  - "../!art/Character sheet"
 cssclasses:
   - poetry
 ---
@@ -32,7 +32,7 @@ cssclasses:
 
 ---
 
-> [[2022-01-04|04/01/22]]
+> 04/01/22
 > 
 > #poetry 
 > #language/english 

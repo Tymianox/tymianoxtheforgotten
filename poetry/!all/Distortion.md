@@ -32,7 +32,7 @@ notes:
 
 ---
 
->  [[2022-03-27|27/02/22]]
+>  27/02/22
 > 
 > #poetry 
 > #language/english 

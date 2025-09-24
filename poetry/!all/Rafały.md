@@ -25,7 +25,7 @@ notes: written during school practices
 
 ---
 
-> [[!daily/2021-11-18|18/11/21]]
+> 18/11/21
 > 
 > #poetry
 > #language/polish 

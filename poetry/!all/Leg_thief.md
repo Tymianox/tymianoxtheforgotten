@@ -27,7 +27,7 @@ cssclasses:
 
 ---
 
-> [[2022-12-11|11/12/22]]
+> 11/12/22
 > 
 > #poetry 
 > #micro-horror

@@ -8,7 +8,7 @@ image:
 music:
 notes:
 links:
-  - "[[2025-07-27]]"
+  - "../!art/2025-07-27"
 title:
 cssclasses:
   - poetry
@@ -18,7 +18,7 @@ published: 📷
 
 ---
 
-> [[2025-07-27|27/07/25]]
+> 27/07/25
 >  
 > #poetry
 > #language

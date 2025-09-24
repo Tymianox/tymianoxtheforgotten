@@ -30,7 +30,7 @@ cssclasses:
 
 ---
 
-> [[2022-10-20|20/10/22]]
+> 20/10/22
 > 
 > #poetry 
 > #poetry/music 

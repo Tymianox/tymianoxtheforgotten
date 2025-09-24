@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poetry | Tymianox' Den</title>
+    <link rel="icon" type="image/x-icon" href="/webpage files/assets/logobg.ico">
+    <link rel="stylesheet" href="webpage files/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Tymianox' Den</h1>
+            <nav>
+                <a href="index.html">Home</a>
+                <a href="webpage files/poetry.html">Poetry</a>
+                <a href="webpage files/about.html">About</a>
+            </nav>
+        </header>
+
+        <main>
+            <ul>
+                {% assign sorted_poems = site.poetry | sort: "created" | reverse %}
+                {% for poem in sorted_poems %}
+                <li>
+                    <a href="{{ poem.url }}">{{ poem.title }} {{ poem.poem_number }}</a>
+                    <br>
+                    <small>{{ poem.created | date: "%d/%m/%y" }}</small>
+                </li>
+                {% endfor %}
+            </ul>
+        </main>
+
+        <footer>
+            <p>ヽ｀、ヽ(ノ＞＜)ノ ｀、ヽ｀☂ヽ｀
+            <br>
+            <br>
+            © 2025 tymianox & skylar <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+            <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+            <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+            <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+            <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+            </p>
+        </footer>
+    </div>
+</body>
+</html>

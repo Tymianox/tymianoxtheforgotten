@@ -7,7 +7,7 @@ tags:
   - poetry
 image:
 music:
-notes: "inspiration: [[FB_IMG_1758003650218.jpg]]"
+notes: "inspiration: ../!art/FB_IMG_1758003650218.jpg"
 cssclasses:
   - poetry
 published: 📷
@@ -16,7 +16,7 @@ published: 📷
 
 ---
 
-> [[2025-09-16|16/09/25]]
+> 16/09/25
 >  
 > #poetry
 > #language/english 

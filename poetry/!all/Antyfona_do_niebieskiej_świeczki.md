@@ -31,7 +31,7 @@ published: 📷
 
 ---
 
-> [[2023-01-25|25/01/23]]
+> 25/01/23
 > 
 > #poetry 
 > #language/polish #language/english 

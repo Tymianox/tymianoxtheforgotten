@@ -17,7 +17,7 @@ tags:
   - gods
   - oblivion
   - pain
-image: "[[poem-death's_sonnet.jpg]]"
+image: "../!art/poem-death's_sonnet.jpg"
 music:
 notes:
 ---
@@ -25,7 +25,7 @@ notes:
 
 ---
 
-> [[2022-05-17|17/05/22]]
+> 17/05/22
 > 
 > #poetry 
 > #language/english 

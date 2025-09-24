@@ -29,7 +29,7 @@ cssclasses:
 
 ---
 
-> [[2022-10-08|08/10/22]]
+> 08/10/22
 > 
 > #poetry 
 > #language/english #language/polish #language/multilingual 

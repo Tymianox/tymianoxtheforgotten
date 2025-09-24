@@ -15,7 +15,7 @@ cssclasses:
 
 ---
 
-> [[2023-07-29|29/07/23]]
+> 29/07/23
 > 
 > #poetry 
 > #poetry/music 

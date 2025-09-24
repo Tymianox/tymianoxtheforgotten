@@ -25,7 +25,7 @@ tags:
   - weird
   - whimsical
   - youth
-image: "[[poem-kawaii_murder.jpg]]"
+image: "../!art/poem-kawaii_murder.jpg"
 music:
   - https://soundcloud.com/bass_dot/power-stance
 notes:
@@ -36,7 +36,7 @@ cssclasses:
 
 ---
 
-> [[2025-09-20|20/09/25]]
+> 20/09/25
 >  
 > #poetry
 > #language/english 

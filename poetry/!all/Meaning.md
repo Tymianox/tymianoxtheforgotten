@@ -23,7 +23,7 @@ tags:
   - thought-provoking
   - death
   - tragedy
-image: "[[poem-meaning.jpg]]"
+image: "../!art/poem-meaning.jpg"
 music:
 notes:
 ---
@@ -31,7 +31,7 @@ notes:
 
 ---
 
-> [[!DAILY/2023-05-19|19/01/22]]
+> 19/01/22
 > 
 > #poetry 
 > #language/english 

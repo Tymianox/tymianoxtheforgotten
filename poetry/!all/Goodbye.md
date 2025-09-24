@@ -35,7 +35,7 @@ notes:
 
 ---
 
-> [[!daily/2022-01-10|10/01/22]]
+> 10/01/22
 > 
 > #poetry 
 > #poetry/music 

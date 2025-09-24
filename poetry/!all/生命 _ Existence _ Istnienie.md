@@ -16,7 +16,7 @@ published: 📷
 
 ---
 
-> [[2023-09-18|18/09/23]]
+> 18/09/23
 > 
 > #poetry 
 > #language/japanese #language/english #language/polish #language/multilingual

@@ -16,7 +16,7 @@ published: 📷
 
 ---
 
-> [[2024-11-06|06/11/24]]
+> 06/11/24
 > #poetry 
 > #language/english 
 > #poetry/type/free-verse 

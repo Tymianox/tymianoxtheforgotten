@@ -1,0 +1,20 @@
+title: "Tymianox' Den"
+description: "the den of forgotten poetry"
+baseurl: "" # leave blank for GitHub Pages
+url: "https://tymianox.github.io/tymianoxtheforgotten/"
+
+markdown: kramdown
+theme: minima # You can replace this later with your own layout
+
+# Optional: enable collections if you want a non-post folder later
+collections:
+  poetry:
+    output: true
+    permalink: /poems/:name/
+
+defaults:
+  - scope:
+      path: "poetry/!all"
+      type: poetry
+    values:
+      layout: poem

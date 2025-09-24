@@ -16,7 +16,7 @@ published: 📷
 
 ---
 
-> [[2024-12-06|06/12/24]]
+> 06/12/24
 > 
 > #poetry 
 > #language/english 

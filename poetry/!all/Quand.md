@@ -16,7 +16,7 @@ published: 📷
 
 ---
 
-> [[2024-05-28|28/05/24]]
+> 28/05/24
 > 
 > #poetry
 > #language/french

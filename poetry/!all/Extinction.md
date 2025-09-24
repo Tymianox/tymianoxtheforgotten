@@ -27,7 +27,7 @@ notes: "inspired by: Takopii no Genzai"
 
 ---
 
-> [[2022-04-03|03/04/22]]
+> 03/04/22
 > 
 > #poetry 
 > #language/english 

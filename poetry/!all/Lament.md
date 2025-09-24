@@ -33,7 +33,7 @@ cssclasses:
 
 ---
 
-> [[2023-01-11|11/01/23]]
+> 11/01/23
 > 
 > #poetry 
 > #language/english 

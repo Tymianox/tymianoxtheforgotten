@@ -36,7 +36,7 @@ cssclasses:
 
 ---
 
-> [[2023-01-14|14/01/23]]
+> 14/01/23
 > 
 > #poetry 
 > #language/english #language/polish #language/multilingual 

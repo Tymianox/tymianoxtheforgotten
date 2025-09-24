@@ -15,7 +15,7 @@ cssclasses:
 
 ---
 
-> [[2023-03-28|28/03/23]]
+> 28/03/23
 > #poetry 
 > #language/english 
 > #poetry/type/free-verse 

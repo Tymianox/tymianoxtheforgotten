@@ -23,7 +23,7 @@ published: 📷
 
 ---
 
-> [[2022-04-17|17/04/22]]
+> 17/04/22
 > 
 > #poetry 
 > #language/polish 

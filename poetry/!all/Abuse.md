@@ -14,7 +14,7 @@ tags:
   - sadness
   - depressive
   - eldritch
-image: "[[poem-abuse.jpg]]"
+image: "../!art/poem-abuse.jpg"
 music:
 notes:
 cssclasses:
@@ -25,7 +25,7 @@ published: 📷
 
 ---
 
-> [[2022-06-12|12/06/22]]
+> 12/06/22
 > 
 > #poetry 
 > #language/english 

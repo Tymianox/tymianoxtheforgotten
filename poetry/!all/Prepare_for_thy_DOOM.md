@@ -25,7 +25,7 @@ tags:
   - courage
   - epic
   - fate
-image: "[[poem-prepare_for_thy_doom.jpg]]"
+image: "../!art/poem-prepare_for_thy_doom.jpg"
 music: https://soundcloud.com/skyheaven_music/skyheaven-doom-rage
 notes:
 cssclasses:
@@ -35,7 +35,7 @@ cssclasses:
 
 ---
 
-> [[!daily/2021-12-27|27/12/21]]
+> 27/12/21
 >  
 > #poetry
 > #language/english 

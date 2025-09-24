@@ -17,7 +17,7 @@ tags:
   - holiday
   - frustration
   - parable
-image: "[[poem-xmas.jpg]]"
+image: "../!art/poem-xmas.jpg"
 music:
 notes:
 cssclasses:
@@ -27,7 +27,7 @@ cssclasses:
 
 ---
 
->  [[2022-12-15|15/12/22]]
+>  15/12/22
 >  
 > #poetry  
 > #language/english  

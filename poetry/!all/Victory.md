@@ -25,7 +25,7 @@ tags:
   - existential
   - grief
   - paradoxical
-image: "[[poem-victory.jpg]]"
+image: "../!art/poem-victory.jpg"
 music:
 notes:
 cssclasses:
@@ -36,7 +36,7 @@ published: 📷
 
 ---
 
-> [[2022-06-09|09/06/22]]
+> 09/06/22
 > 
 > #poetry 
 > #language/english 

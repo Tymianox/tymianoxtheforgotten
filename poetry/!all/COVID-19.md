@@ -32,7 +32,7 @@ notes:
 
 ---
 
-> [[!daily/2020-03-12|12/03/20]]
+> 12/03/20
 > 
 > #poetry 
 > #language/polish 

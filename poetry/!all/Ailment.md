@@ -26,7 +26,7 @@ tags:
   - existential
   - grief
   - wisdom
-image: "[[poem-ailment.jpg]]"
+image: "../!art/poem-ailment.jpg"
 music:
 notes:
 ---
@@ -34,7 +34,7 @@ notes:
 
 ---
 
-> [[!daily/2022-01-22|22/01/22]]
+> 22/01/22
 > 
 > #poetry 
 > #poetry/art 

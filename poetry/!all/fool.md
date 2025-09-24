@@ -20,7 +20,7 @@ tags:
   - depressive
   - loss
   - wip
-image: "[[poem-fool.jpg]]"
+image: "../!art/poem-fool.jpg"
 music:
 notes:
 cssclasses:
@@ -30,7 +30,7 @@ cssclasses:
 
 ---
 
-> [[2023-01-14|14/01/23]]
+> 14/01/23
 > 
 > #poetry 
 > #songs 

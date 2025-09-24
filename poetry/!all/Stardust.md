@@ -24,7 +24,7 @@ notes:
 
 ---
 
-> [[2022-05-15|15/05/22]]
+> 15/05/22
 > 
 > #poetry 
 > #language/english 
