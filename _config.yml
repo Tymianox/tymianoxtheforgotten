@@ -13,8 +13,5 @@ collections:
     permalink: /poem/:slug/
 
 defaults:
-  - scope:
-      path: "poetry/_all"
-      type: poetry
     values:
       layout: poem

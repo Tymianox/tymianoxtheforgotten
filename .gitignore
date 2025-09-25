@@ -1,4 +1,4 @@
-temporary/**
-\!wip/**
+poetry/temporary/**
+poetry/\!wip/**
 keyword list.md
 Poetry prompts.md
