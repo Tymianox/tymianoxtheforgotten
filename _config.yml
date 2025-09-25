@@ -4,17 +4,17 @@ baseurl: "" # leave blank for GitHub Pages
 url: "https://tymianox.github.io/tymianoxtheforgotten/"
 
 markdown: kramdown
-theme: minima # You can replace this later with your own layout
+theme: null
 
 # Optional: enable collections if you want a non-post folder later
 collections:
   poetry:
     output: true
-    permalink: /poems/:name/
+    permalink: /poem/:slug/
 
 defaults:
   - scope:
-      path: "poetry/!all"
+      path: "poetry/_all"
       type: poetry
     values:
       layout: poem
