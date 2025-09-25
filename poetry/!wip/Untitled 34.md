@@ -1,3 +1,0 @@
-...
-Teraz jestem sama
-Byłaś dla mnie wszystkim

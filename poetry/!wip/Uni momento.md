@@ -1,3 +1,0 @@
-
-Uni momento
-Mori memento
