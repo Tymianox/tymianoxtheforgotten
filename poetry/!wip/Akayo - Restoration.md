@@ -1,4 +1,0 @@
-
-FESTIVAL
-
-Akayo - Restoration

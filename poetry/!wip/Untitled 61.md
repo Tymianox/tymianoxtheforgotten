@@ -1,1 +1,0 @@
-Leżę na łóżku zwinięty w kulkę
